@@ -1,4 +1,5 @@
 ---
+permalink: pk85/pubkelompok
 title: Persiapan Tugas Publikasi Kelompok
 ---
 
