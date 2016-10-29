@@ -21,7 +21,9 @@ layout: single
 2.	Follow Twitter [matagaruda_LPDP](https://twitter.com/matagaruda_LPDP)
 3.	Follow ke-6 akun Twitter Kelompok di atas.
 4.	Follow semua peserta yang ada di [https://twitter.com/hendybippo/lists/pk85](https://twitter.com/hendybippo/lists/pk85)
+
     Bonus point untuk kekeluargaan kita :) 
+
 5.	Like Facebook [@LPDPKemenkeu](https://www.facebook.com/LPDPKemenkeu/)
 6.	Like Facebook [@matagarudaid](https://www.facebook.com/matagarudaid/)
     ![Facebook Mata Garuda](images/fb-matagaruda.jpg)
@@ -29,8 +31,11 @@ layout: single
     (Facebook Kelompok harus dapat men-tag Anda, bila Anda tidak add maka tidak akan dapat di-tag)
 
 8.	Sign in ke [Roundteam.co](http://roundteam.co), lalu di bagian Tweets, tambahkan konfigurasi:
+
     a.	tagar #bhadrikasagraha
+
     b.	number of Hashtags: 0 - 10
+
     contoh sebagai berikut:
 
     ![Roundteam #bhadrikasagraha](images/pk85/roundteam-pk85.jpg)
